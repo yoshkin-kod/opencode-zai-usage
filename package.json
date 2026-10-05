@@ -1,0 +1,19 @@
+{
+  "name": "opencode-zai-usage",
+  "private": true,
+  "license": "MIT",
+  "type": "module",
+  "scripts": {
+    "typecheck": "tsc -p tsconfig.json"
+  },
+  "dependencies": {
+    "@opencode-ai/plugin": "1.4.3",
+    "@opentui/core": "0.1.97",
+    "@opentui/solid": "0.1.97",
+    "solid-js": "^1.9.3"
+  },
+  "devDependencies": {
+    "@types/node": "22.13.9",
+    "typescript": "5.8.2"
+  }
+}
